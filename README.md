@@ -9,4 +9,6 @@ https://github.com/Harrison1/RecyclerView
 
 
 Picture of the final app
+
+
 ![Alt text](/screenshots/act1.PNG?raw=true)
